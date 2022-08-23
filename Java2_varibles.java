@@ -1,6 +1,4 @@
-import com.sun.jdi.Value;
-
-public class varibles {
+public class Java2_varibles {
     public static void main(String[] args) {
         // //Declaration of variables
         //DateType variable = vaule;
@@ -13,6 +11,8 @@ public class varibles {
         short shortNumber = 4;
         long longNumber = 123456789;
         double doubleNumber = 12.34;
+
+
         
     }
 }
