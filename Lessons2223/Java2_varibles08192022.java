@@ -1,4 +1,6 @@
-public class Java2_varibles {
+package Lessons2223;
+
+public class Java2_varibles08192022 {
     public static void main(String[] args) {
         // //Declaration of variables
         //DateType variable = vaule;

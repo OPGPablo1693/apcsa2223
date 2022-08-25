@@ -1,4 +1,6 @@
-public class Java3_ArithmeticOperators {
+package Lessons2223;
+
+public class Java3_ArithmeticOperators08232022 {
     // if you need to change the class name
     // you can not do it directly
     //use refactor option right-clicking the class name
@@ -58,20 +60,19 @@ public class Java3_ArithmeticOperators {
 
         //CASTING
         //  converts data types one to another if it is possible
-        {
-            double dd = 3.9;
-            System.out.println(dd);
-            int asdf = (int) dd;
-            System.out.println((int) dd);
+        //  {
+        double dd = 3.9;
+        System.out.println(dd);
+        int asdf = (int) dd;
+        System.out.println((int) dd);
 
-            // IMPLICIT CASTING
-            double d1 = 3000;
-            long l = asdf
-            System.out.println(d1);
-            System.out.println(l);
-            // EXPLICT CASTING
-            double price = 200.55;
-            System.out.println((int) price);
+        // IMPLICIT CASTING
+        double d1 = 3000;
+        System.out.println(d1);
+        System.out.println();
+        // EXPLICT CASTING
+        double price = 200.55;
+        System.out.println((int) price);
 
             // SHORTHAND OPERATORS
             int number3 = 5;
