@@ -17,11 +17,10 @@ public class Java12_StringPool09292002
         System.out.println(str.length());
         System.out.println("chris".length());
 
-        System.out.println(str.concat(str2));
-        String str3 = str1.concat(str2);
-        System.out.println(str3);
 
-        String str4 = "chris"
+
+
+        String str4 = "chris";
 
         {
             System.out.println(str4.toLowerCase());
@@ -32,14 +31,14 @@ public class Java12_StringPool09292002
             System.out.println(str6.substring(3, 6));
             System.out.println(str6.substring(5, 9));
 
-            String st7 = "sevenelven"
+            String st7 = "sevenelven";
             {
                 System.out.println(str.replace("e","a"));
                 System.out.println(str.replace("e",""));
 
                 System.out.println(str6.replaceFirst("e","i"));
 
-                String str8="chris"
+                String str8="chris";
 
             }
         }
