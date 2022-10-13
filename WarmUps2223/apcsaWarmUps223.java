@@ -31,4 +31,11 @@ public class apcsaWarmUps223
             default:
         }
     }
+
+    public static class DoNow10062022
+    {
+        public static void main(String[] args) {
+
+        }
+    }
 }
