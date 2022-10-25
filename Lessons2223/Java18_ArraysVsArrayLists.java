@@ -18,7 +18,7 @@ public class Java18_ArraysVsArrayLists
         }
         System.out.println(list);
         Collections.sort(list);
-
+        
 
     }
 }
